@@ -4,9 +4,9 @@ public class Livro {
     private String id;
     private String titulo;
     private String autor;
-    private String biblioteca; // novo campo
+    private String biblioteca;
 
-    public Livro() {} // Obrigatório pro Firebase
+    public Livro() {}
 
     public Livro(String id, String titulo, String autor, String biblioteca) {
         this.id = id;

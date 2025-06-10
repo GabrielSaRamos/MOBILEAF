@@ -111,7 +111,7 @@ public class MainActivity extends AppCompatActivity {
     private void deletarLivroComLog(Livro livro) {
         String idLivro = livro.getId();
         String titulo = livro.getTitulo();
-        String nomeBiblioteca = "Biblioteca Central"; // você pode mudar isso se quiser
+        String nomeBiblioteca = "Biblioteca Central";
 
         databaseReference.child(idLivro).removeValue().addOnCompleteListener(task -> {
             if (task.isSuccessful()) {
