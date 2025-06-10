@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1058129013516",
+    "firebase_url": "https://afmobile-ae5b9-default-rtdb.firebaseio.com",
+    "project_id": "afmobile-ae5b9",
+    "storage_bucket": "afmobile-ae5b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058129013516:android:0d2349d1c6164b0db07729",
+        "android_client_info": {
+          "package_name": "com.exemplo.crudlivros"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH-K_vBuzurj9CSJj7fcBoaWyMJb9Dy0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
